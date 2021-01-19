@@ -15,8 +15,8 @@
 </p>
 
 <script>
-		let Hobbies = [ 'Movies', 'Series', 'Anime', 'Games', 'Music', 'Podcast', 'Cinema', 'Eating', 'Pets'] ;	
-    	let studying = [ 'Java', 'JavaScritp', 'NodeJs', 'CSS', 'HTML'];
+    let Hobbies = [ 'Movies', 'Series', 'Anime', 'Games', 'Music', 'Podcast', 'Cinema', 'Eating', 'Pets'] ;	
+    let studying = [ 'Java', 'JavaScritp', 'NodeJs', 'CSS', 'HTML'];
 </script>
 
 I don't speak english😅
