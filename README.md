@@ -21,7 +21,7 @@
 
 ## Connect with me:
 <p>
-<a href="https://cliolink.com/site_jhonatan_ssantiago" target="blank"><img src="img/page.png" width=200/></a>
+<a href="https://cliolink.com/jhonatan_ssantiagogithubio" target="blank"><img src="img/page.png" width=200/></a>
 <a href="https://cliolink.com/jhonatan_ssantiago" target="blank"><img src="img/social.png" width=200/></a
 </p>
 
