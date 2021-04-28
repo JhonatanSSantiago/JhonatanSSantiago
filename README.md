@@ -1,10 +1,5 @@
-# Hi, I'm Jhonatan Santiago! 🙋🏾‍♂️👨🏾‍💻
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=JhonatanSSantiago&label=Profile%20views&color=0e75b6&style=flat" alt="JhonatanSSantiago" /> </p>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JhonatanSSantiago.JhonatanSSantiago)
-
-</p>
+<h2 align="center">Hi, I'm Jhonatan Santiago! 🙋🏾‍♂️👨🏾‍💻</h2>
+<p align="center">![visitors](https://visitor-badge.glitch.me/badge?page_id=JhonatanSSantiago.JhonatanSSantiago)</p>
 
 ````html
 <script>
@@ -25,10 +20,13 @@
 ````
 
 
-## Connect with me:
-<p><a href="https://cliolink.com/jhonatanssantiago" target="blank"><img src="img/social.png" width=100/></a</p>
-
+<h2 align='center'> Connect with me: </h2>
+<p align="left"><a href="https://cliolink.com/jhonatanssantiago" target="blank"><img src="img/social.png" width=150/></a</p>
+	
+<h2 align="center"> My GitHub Stats </h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JhonatanSSantiago&count_private=true&show_icons=true&theme=radical" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSSantiago&theme=radical"/></p>
+<p><img align="center" src="https://komarev.com/ghpvc/?username=JhonatanSSantiago&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 
 
