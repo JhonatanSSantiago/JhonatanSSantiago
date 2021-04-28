@@ -1,5 +1,5 @@
-# Hi, I'm Jhonatan Santiago! 🙋🏾‍♂️👨🏾‍💻<p> <img src="https://komarev.com/ghpvc/?username=JhonatanSSantiago&label=Profile%20views&color=0e75b6&style=flat" alt="JhonatanSSantiago" /> </p>
-
+# Hi, I'm Jhonatan Santiago! 🙋🏾‍♂️👨🏾‍💻
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=JhonatanSSantiago&label=Profile%20views&color=0e75b6&style=flat" alt="JhonatanSSantiago" /> </p>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JhonatanSSantiago.JhonatanSSantiago)
@@ -26,13 +26,9 @@
 
 
 ## Connect with me:
-<p>
-<a href="https://cliolink.com/jhonatanssantiago" target="blank"><img src="img/social.png" width=200/></a
-</p>
+<p><a href="https://cliolink.com/jhonatanssantiago" target="blank"><img src="img/social.png" width=100/></a</p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSSantiago&theme=radical"/>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSSantiago&theme=radical"/></p>
 
 
 
