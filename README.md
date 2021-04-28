@@ -25,10 +25,9 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhonatanSSantiago&label=Profile%20views&color=0e75b6&style=flat" alt="JhonatanSSantiago" /> </p>
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanSSantiago&theme=dracula&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSSantiago&hide=html,css&theme=dracula">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JhonatanSSantiago&label=Profile%20views&color=0e75b6&style=flat" alt="JhonatanSSantiago" /> </p>
+
 
