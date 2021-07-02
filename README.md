@@ -3,10 +3,10 @@
 ````html
 <script>
     let AboutMe =[{
-    	Name: "Jhonatan Santiago",
-    	Age: 23,
-    	Birthday: "11 October 1998",
-    	City: "Palmas - TO, BR"   
+    	   Name: "Jhonatan Santiago",
+    	   Age: 23,
+    	   Birthday: "11 October 1998",
+    	   City: "Palmas - TO, BR"   
 	}];
 	let Hobbies = [ 'Movies', 'Series', 'Anime', 'Games', 'Music', 'Podcast', 'Cinema', 'Eating', 'Pets'];	
 	let Studying = [ 'Java', 'JavaScritp', 'NodeJs', 'CSS', 'HTML'];
