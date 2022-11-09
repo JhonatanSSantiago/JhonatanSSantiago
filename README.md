@@ -9,7 +9,7 @@
     	   City: "Palmas - TO, BR"   
 	}];
 	let Hobbies = [ 'Movies', 'Series', 'Anime', 'Games', 'Music', 'Podcast', 'Cinema', 'Eating', 'Pets'];	
-	let Studying = [ 'Java', 'JavaScritp', 'NodeJs', 'CSS', 'HTML'];
+	let Studying = [ 'Java', 'JavaScritp', 'NodeJs', 'Android'];
 </script>
 <p>   
 	I am currently an academic technologist in Internet Systems at the Federal Institute of Tocantins - Campus Palmas.
