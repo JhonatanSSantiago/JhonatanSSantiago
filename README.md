@@ -4,7 +4,7 @@
 <script>
     let AboutMe =[{
     	   Name: "Jhonatan Santiago",
-    	   Age: 23,
+    	   Age: 24,
     	   Birthday: "11 October 1998",
     	   City: "Palmas - TO, BR"   
 	}];
