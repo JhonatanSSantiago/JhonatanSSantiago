@@ -13,7 +13,7 @@
 </script>
 <p>   
 	I am currently an academic technologist in Internet Systems at the Federal Institute of Tocantins - Campus Palmas.
-	I want to go deeper into Mobile Development and be a front-end developer
+	I want to go be a front-end developer
 </p>
 
 
