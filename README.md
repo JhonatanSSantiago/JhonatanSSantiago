@@ -11,14 +11,7 @@
 	let Hobbies = [ 'Movies', 'Series', 'Anime', 'Games', 'Music', 'Podcast', 'Cinema', 'Eating', 'Pets'];	
 	let Studying = [ 'Java', 'JavaScritp', 'NodeJs', 'React', 'Android'];
 </script>
-<p>   
-	I am currently an academic technologist in Internet Systems at the Federal Institute of Tocantins - Campus Palmas.
-	I want to go be a front-end developer
-</p>
-
-
 ````
-
 
 <h2 align='center'> Connect with me: </h2>
 <p align="center"><a href="https://beacons.page/jhon_ssantiago" target="blank"><img src="img/social.png" width=150/></a</p>
