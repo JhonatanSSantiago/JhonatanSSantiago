@@ -14,7 +14,7 @@
 ````
 
 <h2 align='center'> Connect with me: </h2>
-<p align="center"><a href="https://beacons.page/jhon_ssantiago" target="blank"><img src="img/social.png" width=150/></a</p>
+<p align="center"><a href="https://beacons.ai/jhonatan.ssantiago" target="blank"><img src="img/social.png" width=150/></a</p>
 	
 	
 <h2 align="center"> My GitHub Stats </h2>
