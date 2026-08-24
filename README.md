@@ -18,9 +18,7 @@
 	
 	
 <h2 align="center"> My GitHub Stats </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JhonatanSSantiago&count_private=true&show_icons=true&theme=radical" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSSantiago&theme=radical"/></p>
-
+![Language Stats](stats/leaderboard_by_lines.png)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=JhonatanSSantiago&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
